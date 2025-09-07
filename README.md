@@ -62,7 +62,7 @@ Alice: That’s awesome, Bob!
 
 ---
 
-## 📖 References
+## References
 
 * *PLACES: Prompting Language Models for Conversation Synthesis* (base research paper)
 * Mistral-7B model documentation
@@ -70,7 +70,7 @@ Alice: That’s awesome, Bob!
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Developed as part of an **implementation study of the PLACES framework**, exploring how large language models can generate synthetic conversations that rival human-written dialogues.
 
