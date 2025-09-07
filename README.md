@@ -58,7 +58,7 @@ Alice: That’s awesome, Bob!
 * Persona & Emotion conditioning (e.g., *optimistic teacher*, *stressed student*)
 * Task-oriented dialogue generation
 * Grounded conversations with external knowledge
-* 🛡Improved filtering for safety & factual accuracy
+* Improved filtering for safety & factual accuracy
 
 ---
 
