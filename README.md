@@ -17,7 +17,7 @@ The goal is to create **high-quality, natural, and diverse dialogue datasets** w
 
 ---
 
-## ⚙How It Works
+## How It Works
 
 1. **Prompt Engineering**
 
@@ -35,7 +35,7 @@ The goal is to create **high-quality, natural, and diverse dialogue datasets** w
 
 ---
 
-## 💬 Example
+## Example
 
 **Topic:** Climate Change
 **Mode:** Dyadic
